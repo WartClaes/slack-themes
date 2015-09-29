@@ -42,6 +42,14 @@ This is a series of [Slack](https://slack.com/) themes combined with [Poke Palet
 #2062AC,#4A4A4A,#D5AC4A,#FFFFFF,#5A8BCD,#FFFFFF,#F6D59C,#D5AC4A
 ```
 
+### 025 - Pikachu
+
+<img src="assets/025.png" width="200">
+
+```
+#F6BD20,#FFF6A4,#9C5200,#FFFFFF,#F6E652,#292929,#C52018,#C52018
+```
+
 ### 644 - Zekrom
 
 <img src="assets/644.png" width="200">
