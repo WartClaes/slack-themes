@@ -1,6 +1,14 @@
-# slack-themes
+# Slack Pokemon Themes
 
 This is a series of [Slack](https://slack.com/) themes combined with [Poke Palettes](http://pokepalettes.com/).
+
+### 001 - Bulbasaur
+
+<img src="assets/001.png" width="200">
+
+```
+#62D5B4,#83EEC5,#399494,#FFFFFF,#83EEC5,#184A4A,#73AC31,#AC0031
+```
 
 ### 003 - Venasaur
 
