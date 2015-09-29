@@ -15,7 +15,7 @@ This is a series of [Slack](https://slack.com/) themes combined with [Poke Palet
 <img src="assets/006.png" width="200">
 
 ```
-#EE8329,#EEB45A,#CD5241,#FFFFFF,#FFD510,#833118,#207394,#833118
+#EE8329,#EEB45A,#CD5241,#FFFFFF,#FFD510,#084152,#207394,#833118
 ```
 
 ### 009 - Blastoise
