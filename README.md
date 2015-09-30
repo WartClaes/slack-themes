@@ -34,6 +34,14 @@ This is a series of [Slack](https://slack.com/) themes combined with [Poke Palet
 #DE5239,#E6AC5A,#F6A400,#FFFFFF,#FF9441,#FFFFFF,#FFD508,#8B2900
 ```
 
+### 005 - Charmeleon
+
+<img src="assets/005.png" width="200">
+
+```
+#942010,#FF524A,#CD3939,#FFFFFF,#FF524A,#FFFFFF,#FFDE29,#FFA400
+```
+
 ### 006 - Charizard
 
 <img src="assets/006.png" width="200">
