@@ -50,6 +50,14 @@ This is a series of [Slack](https://slack.com/) themes combined with [Poke Palet
 #CD5241,#833118,#CD5241,#FFFFFF,#EE8329,#EEDE7B,#207394,#833118
 ```
 
+### 007 - Squirtle
+
+<img src="assets/006.png" width="200">
+
+```
+#8BC5CD,#B4E6EE,#CD7B29,#FFE69C,#B4E6EE,#297383,#FFD56A,#78AF8F
+```
+
 ### 009 - Blastoise
 
 <img src="assets/009.png" width="200">
