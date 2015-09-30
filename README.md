@@ -52,7 +52,7 @@ This is a series of [Slack](https://slack.com/) themes combined with [Poke Palet
 
 ### 007 - Squirtle
 
-<img src="assets/006.png" width="200">
+<img src="assets/007.png" width="200">
 
 ```
 #8BC5CD,#B4E6EE,#CD7B29,#FFE69C,#B4E6EE,#297383,#FFD56A,#78AF8F
