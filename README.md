@@ -74,6 +74,14 @@ This is a series of [Slack](https://slack.com/) themes combined with [Poke Palet
 #F6BD20,#FFF6A4,#9C5200,#FFFFFF,#F6E652,#292929,#C52018,#C52018
 ```
 
+### 129 - Magikarp
+
+<img src="assets/129.png" width="200">
+
+```
+#FF9A63,#FFDE37,#FF5E15,#FFFFFF,#C63D40,#000000,#FFDE37,#FFFFFF
+```
+
 ### 149 - Dragonite
 
 <img src="assets/149.png" width="200">
