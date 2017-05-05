@@ -74,6 +74,14 @@ This is a series of [Slack](https://slack.com/) themes combined with [Poke Palet
 #F6BD20,#FFF6A4,#9C5200,#FFFFFF,#F6E652,#292929,#C52018,#C52018
 ```
 
+### 149 - Dragonite
+
+<img src="assets/149.png" width="200">
+
+```
+#EE9C39,#f6bd5a,#5a3920,#FFFFFF,#f6bd5a,#5a3920,#186a62,#186a62
+```
+
 ### 150 - Mewtwo
 
 <img src="assets/150.png" width="200">
