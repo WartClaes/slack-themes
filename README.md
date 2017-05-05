@@ -74,6 +74,14 @@ This is a series of [Slack](https://slack.com/) themes combined with [Poke Palet
 #F6BD20,#FFF6A4,#9C5200,#FFFFFF,#F6E652,#292929,#C52018,#C52018
 ```
 
+### 150 - Mewtwo
+
+<img src="assets/150.png" width="200">
+
+```
+#ded5e6,#b4acc5,#9441bd,#FFFFFF,#837b9c,#000000,#b44aee,#b44aee
+```
+
 ### 644 - Zekrom
 
 <img src="assets/644.png" width="200">
